@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\juan.gomez\Desktop\Texber\TexberAPI_Release</_PublishTargetUrl>
+    <History>True|2022-09-06T12:56:29.0390741Z;True|2022-07-19T08:43:05.1291401+02:00;True|2022-07-19T08:21:02.5375992+02:00;False|2022-07-18T15:35:03.4688567+02:00;True|2022-07-16T16:45:28.0468133+02:00;False|2022-07-16T16:42:51.3492308+02:00;True|2022-07-16T16:09:45.4225040+02:00;True|2022-07-15T17:23:33.4792831+02:00;True|2022-07-15T12:22:10.5018354+02:00;True|2022-07-15T12:13:46.0023048+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,197 @@
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.exe
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.deps.json
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.runtimeconfig.json
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.runtimeconfig.dev.json
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\ref\TexberAPI.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.pdb
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.csproj.AssemblyReference.cache
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.AssemblyInfoInputs.cache
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.AssemblyInfo.cs
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.csproj.CoreCompileInputs.cache
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\staticwebassets\TexberAPI.StaticWebAssets.Manifest.cache
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\staticwebassets\TexberAPI.StaticWebAssets.xml
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\scopedcss\bundle\TexberAPI.styles.css
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.RazorTargetAssemblyInfo.cache
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.csproj.CopyComplete
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\ref\TexberAPI.dll
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.pdb
+C:\Users\juan.gomez\Documents\Visual Studio 2019\Projects\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.genruntimeconfig.cache
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.StaticWebAssets.xml
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.exe
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.deps.json
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.runtimeconfig.json
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.runtimeconfig.dev.json
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.pdb
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.csproj.AssemblyReference.cache
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.AssemblyInfoInputs.cache
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.AssemblyInfo.cs
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.csproj.CoreCompileInputs.cache
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\scopedcss\bundle\TexberAPI.styles.css
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\staticwebassets\TexberAPI.StaticWebAssets.Manifest.cache
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.csproj.CopyComplete
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\refint\TexberAPI.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.pdb
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.genruntimeconfig.cache
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\ref\TexberAPI.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Juan Gomez\Desktop\Web\WINFOR\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.StaticWebAssets.xml
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.exe
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.deps.json
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.runtimeconfig.json
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.runtimeconfig.dev.json
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\TexberAPI.pdb
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\BarcodeStandard.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\itext.barcodes.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\itext.forms.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\itext.io.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\itext.kernel.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\itext.layout.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\itext.pdfa.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\itext.sign.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\itext.styledxmlparser.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\itext.svg.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\itext.commons.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.csproj.AssemblyReference.cache
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.AssemblyInfoInputs.cache
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.AssemblyInfo.cs
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.csproj.CoreCompileInputs.cache
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\scopedcss\bundle\TexberAPI.styles.css
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\staticwebassets\TexberAPI.StaticWebAssets.Manifest.cache
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.RazorTargetAssemblyInfo.cache
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.csproj.CopyComplete
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\refint\TexberAPI.dll
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.pdb
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\TexberAPI.genruntimeconfig.cache
+C:\Users\juan.gomez\Desktop\Texber\TexberAPI\TexberAPI\obj\Debug\net5.0\ref\TexberAPI.dll
